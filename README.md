@@ -1,2 +1,2 @@
-# template_py
-Seeqc template repository
+# Seeqc template Python repository
+
